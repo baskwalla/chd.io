@@ -16,3 +16,7 @@ Icon
 # SCSS
 
 *.sass-cache
+
+# CSS
+
+css/style.css

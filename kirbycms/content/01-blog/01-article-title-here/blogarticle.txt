@@ -1,0 +1,7 @@
+
+Title: This is the article title
+----
+Date: 08.01.2012
+----
+Text: Text contents!
+----

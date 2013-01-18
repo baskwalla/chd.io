@@ -1,9 +1,9 @@
-Title: Kirby Demo
+Title: chd.io
 ----
-Author: Bastian Allgeier
+Author: Chad Thoreson
 ----
-Description: Kirby is awesome
+Description: Web design and development by Chad Thoreson
 ----
-Keywords: kirby, cms, kirbycms, php, filesystem
+Keywords: web development, web design, chad thoreson
 ----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
+Copyright: © (date: Year) Chad Thoreson

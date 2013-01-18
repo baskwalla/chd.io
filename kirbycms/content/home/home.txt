@@ -4,4 +4,8 @@ Title: Home
 
 Text: 
 
-Hello, I'm Chad. I'm a web designer and developer.
+Hello, I'm Chad. I'm a web designer and developer living in Sioux Falls, SD, USA.
+
+## Find Me Online
+
+[@baskwalla](http://twitter.com/baskwalla) | [GitHub](http://github.com/baskwalla)

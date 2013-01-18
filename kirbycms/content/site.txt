@@ -6,4 +6,4 @@ Description: Web design and development by Chad Thoreson
 ----
 Keywords: web development, web design, chad thoreson
 ----
-Copyright: © (date: Year) Chad Thoreson
+Copyright: © (date: Year) Chad Thoreson. Built using [Kirby](http://getkirby.com) and [inuit.css](http://inuitcss.com).

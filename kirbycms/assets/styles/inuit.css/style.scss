@@ -4,7 +4,7 @@
 \*------------------------------------*/
 /**
  * 
- * sass --watch style.scss:../style.css --style compressed
+ * sass --watch style.scss:../style.css --style expanded
  * 
  * Here we pull in some variables, include the inuit.css framework, then add our
  * project-specific components afterwards.
@@ -26,20 +26,25 @@
 	@extend %grid;
 	padding-left: 2%;
 	padding-right: 2%;
+	padding-top: 2%;
+	background-color: blue;
 }
 
 .about, .content {
-	@extend %grid__item;
-	@extend %one-whole;
-	@extend %island;
-}
-
-.about {
-	@extend %desk-one-third;
+    @extend %grid__item;
+    @extend %palm-one-whole;
+    @extend %lap-one-half;
+    background-color: white;
 }
 
 .content {
-	@extend %desk-two-thirds;
+	@extend %desk-three-quarters;
+	@extend %lap-three-quarters;
+}
+
+.about {
+	@extend %desk-one-quarter;
+	@extend %lap-one-quarter;
 }
 
 /** Base Kirby Styles **/

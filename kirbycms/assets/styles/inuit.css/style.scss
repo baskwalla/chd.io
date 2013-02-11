@@ -31,14 +31,15 @@
 .about, .content {
 	@extend %grid__item;
 	@extend %one-whole;
+	@extend %island;
 }
 
 .about {
-	@extend %desk-one-fourth;
+	@extend %desk-one-third;
 }
 
 .content {
-	@extend %desk-three-fourths;
+	@extend %desk-two-thirds;
 }
 
 /** Base Kirby Styles **/
